@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="FIRST_MODIFIED">Première clé</string>
+    <!-- Fourth test -->
+    <string name="FOURTH">Votre version est trop ancienne.</string>
+    <string name="key_domenica_phrase_support">C’est une nouvelle clé créée par Domenica à partir de Phrase Support.</string>
+    <string name="key_domenica_phrase_support2">C’est ma deuxième clé.</string>
+</resources>
