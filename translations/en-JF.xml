@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="FIRST_MODIFIED">This is a {1}modified{2} test again. Added short Czech sentence again.</string>
+    <!-- Fourth test -->
+    <string name="FOURTH">Your version is too old.</string>
+    <string name="key_domenica_phrase_support">This is a new key created by Domenica from Phrase Support.</string>
+    <string name="key_domenica_phrase_support2">This is my second key.</string>
+    <!-- New Key 3 -->
+    <string name="New Key 3">New Key 3</string>
+    <!-- This is the second test. -->
+    <string name="SECOND">{1}This{2} is a {3}new{4} feature</string>
+    <!-- Test_placeholders -->
+    <string name="Test_placeholders">Delivery after {days} days for 250506.</string>
+    <!-- Test_plural -->
+    <plurals name="Test_plural_placeholder">
+        <item quantity="one">One product added</item>
+        <item quantity="other">More than one product added</item>
+        <item quantity="zero">Added no product</item>
+    </plurals>
+    <!-- Test_plural_placeholder1 -->
+    <plurals name="Test_plural_placeholder1">
+        <item quantity="one">One item</item>
+        <item quantity="other">{{count]} items</item>
+        <item quantity="zero">Zero item</item>
+    </plurals>
+    <!-- This is the third key -->
+    <string name="THIRD">This translations contains
+a line-break. THis is an EDIT. This one more edit</string>
+    <!-- This is a MT Key -->
+    <string name="This is a MT Key">This is a MTed Key without changes</string>
+    <!-- This is a MT Key 2 -->
+    <string name="This is a MT Key-2">This is a MT Key 2</string>
+</resources>
