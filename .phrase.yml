@@ -1,0 +1,24 @@
+phrase:
+  access_token: e362c3c842b7520d4e609db7bd52898344f0867ba7d51823dabe74e7ade048d8
+  project_id: e14205c395ecbf9dba340765db0e52f5
+
+  locale_mapping:
+    en: en-JF
+    en-US: en-US-JF
+    fr-CA: fr-CA-JF
+    fr: fr-FR-JF
+
+  push:
+    sources:
+    - file: ./translations/<locale_name>.xml
+      params:
+        file_format: xml
+        update_translations: true
+  
+  pull:
+    targets:
+    - file: ./translations/<locale_name>.xml
+      params:
+        file_format: xml
+        update_translations: true
+  
